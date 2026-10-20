@@ -1,0 +1,11 @@
+.headline {
+    background-color: rgb(0, 0, 0);
+    color: yellow;
+}
+
+a:hover {
+    color: red;
+}
+p::first-line{
+    color: rgb(255, 0, 0);
+}
