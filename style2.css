@@ -7,8 +7,8 @@
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     line-height: 1.6;
-    color: #1a25c1;
-    background-color: rgb(224, 230, 255);
+    color: #090031;
+    background-color: rgb(255, 255, 255);
 }
 /*class container*/ 
 .container {
@@ -20,8 +20,8 @@ body{
 /* header dan navigasi*/
 
 header {
-    background-color: #008080;
-    color: white;
+    background-color: #01121f;
+    color: rgb(245, 249, 253);
     padding: 25px 0;
     text-align: center;
     box-shadow: 0 2px 8px rgba(0,0,0,3);
@@ -53,7 +53,9 @@ nav{
     transition: all 0.3 ease;
  }
 
- nav a:hover, nav a.active {
+ nav a:hover, 
+ nav a.active {
     background-color: rgba(255,255,2555,0.25);
     font-weight: bold;
+    
  }
